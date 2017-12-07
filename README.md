@@ -1,1 +1,3 @@
-# ynwebdocs
+# Headline
+
+> An awesome project.
