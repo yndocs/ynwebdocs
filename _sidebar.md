@@ -1,3 +1,6 @@
-- tag
-  - [首页](role.md)
-  - [指南](zh-cn/guide)
+- 入门
+  - [快速开始](basic/index.md)
+- 布局
+  - [系统布局框架](layout/layout.md)
+- 工作台
+  - [血糖工作台](workbench/workbench-bg.md)
